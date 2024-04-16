@@ -116,6 +116,7 @@ namespace Trainbookingsystem.Controllers
             }
             return View(train);
         }
+        [AllowAnonymous]
         public async Task<IActionResult> Delete(int? id)
         {
             if (id == null)
@@ -130,7 +131,7 @@ namespace Trainbookingsystem.Controllers
 
             return View(train);
         }
-
+        [AllowAnonymous]
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)

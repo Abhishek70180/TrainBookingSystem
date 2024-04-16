@@ -9185,11 +9185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\asp.net core\\Trainbookingsystem\\Trainbookingsystem\\Trainbookingsystem.csproj",
+      "projectUniqueName": "D:\\test\\Trainbookingsystem\\Trainbookingsystem.csproj",
       "projectName": "Trainbookingsystem",
-      "projectPath": "D:\\asp.net core\\Trainbookingsystem\\Trainbookingsystem\\Trainbookingsystem.csproj",
+      "projectPath": "D:\\test\\Trainbookingsystem\\Trainbookingsystem.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "D:\\asp.net core\\Trainbookingsystem\\Trainbookingsystem\\obj\\",
+      "outputPath": "D:\\test\\Trainbookingsystem\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
